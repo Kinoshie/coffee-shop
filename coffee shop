@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title> Cafe Menu </title>
-    <link rel="index.css"  href="stylesheet" type="text/ccs" />
+    <link rel="index.css"  href="coffe-shop/css/index.css" type="text/ccs" />
   
   </head>
   <body>
